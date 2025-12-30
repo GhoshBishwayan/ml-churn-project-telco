@@ -1,7 +1,7 @@
 # Week 1 – Data Understanding & EDA
 
 ## Dataset
-- Path: `D:\Machine-Learning\customer-churn\data\telco_churn.csv`
+- Path: `/Users/rahuldas/Documents/ml-churn-project-telco/data/telco_churn.csv`
 - Rows: **7043**
 - Columns: **20**
 - Target: **Churn**
@@ -12,13 +12,13 @@
 - `TotalCharges`: 11
 
 ## Key Observations (auto-generated)
-- Highest churn by **Contract**: `Month-to-month` (~42.7%).
-- Highest churn by **Payment Method**: `Electronic check` (~45.3%).
+- Highest churn by **Contract**: `Month-to-month` (~42.7%).
+- Highest churn by **Payment Method**: `Electronic check` (~45.3%).
 - Highest churn by **Internet Service**: `Fiber optic` (~41.9%).
 
 ## Numeric Signals (quick comparison)
-- Mean **tenure**: churn=**17.98**, non-churn=**37.57**
-- Mean **MonthlyCharges**: churn=**74.44**, non-churn=**61.27**
+- Mean **tenure**: churn=**17.98**, non-churn=**37.57**
+- Mean **MonthlyCharges**: churn=**74.44**, non-churn=**61.27**
 - Mean **TotalCharges**: churn=**1531.80**, non-churn=**2555.34**
 
 ## Saved Figures
