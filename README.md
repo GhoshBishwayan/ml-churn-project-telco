@@ -1,4 +1,4 @@
-# Customer Churn Prediction (4-week project)
+# Customer Churn Prediction
 
 This repository implements a Customer Churn Prediction System using an existing dataset (recommended: Telco Customer Churn).
 
